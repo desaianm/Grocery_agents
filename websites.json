@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Walmart",
+        "url": "https://www.walmart.ca",
+        "type": "grocery"
+    },
+    {
+        "name": "Loblaws",
+        "url": "https://www.loblaws.ca",
+        "type": "grocery"
+    },
+    {
+        "name": "Metro",
+        "url": "https://www.metro.ca",
+        "type": "grocery"
+    },
+    {
+        "name": "Sobeys",
+        "url": "https://www.sobeys.com",
+        "type": "grocery"
+    },
+    {
+        "name": "Freshco",
+        "url": "https://freshco.com/flyer/",
+        "type": "grocery"
+    }
+]
+
